@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Grad-CAM outputs
+output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
